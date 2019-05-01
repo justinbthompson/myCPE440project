@@ -29,6 +29,7 @@ Given the large training time of the SVM model and the imperfect accuracy of the
 * New Signals Folder - six new images to classify
 * Project Data Folder - 900 images supplied by Professor Yao
 * SVM_Data_Files Folder - saved outputs of the SVM trainer since it takes a significant time to run
+* CPE440 Project Justin Thompson.pdf - project summary and presentation
 * QAMCNNSVMCombo_Predictor.m - script to classify six new signals using the CNNSVMCombo model             
 * QAMCNNSVMCombo_Predictor_Results.pdf - results of classifying six new signals using the CNNSVMCombo model
 * QAMCNNSVMCombo_Trainer.m - script to train CNNSVMCombo model           
